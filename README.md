@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Use the bellow command to create the table 
+### ` npm install antd ` 
+ 
+Use the bellow command for styling purpose.
+### `npm install bootstrap`
+
+Use the bellow command to use icons
+### `npm install primeicons `
+ 
+Use bellow command for styling purpose.
+### `npm install primereact `
+
+Use the below command for routes
+### ` npm install react-router-dom `
